@@ -43,7 +43,7 @@ Zoom Effect: The ROI is zoomed for better accuracy before preprocessing.
 ## Project Structure
 plaintext
 
-handwritten-digit-recognition/
+handwritten-digit-recognition
 bestmodel.h5              # Trained model file
 recognize_digits.py       # Main script to run the application
 README.md                 # Project documentation
