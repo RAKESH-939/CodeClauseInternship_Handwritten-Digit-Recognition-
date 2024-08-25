@@ -40,14 +40,6 @@ Preprocessing: The captured frame within the ROI is converted to grayscale, resi
 
 Zoom Effect: The ROI is zoomed for better accuracy before preprocessing.
 
-## Project Structure
-plaintext
-
-handwritten-digit-recognition
-bestmodel.h5              # Trained model file
-recognize_digits.py       # Main script to run the application
-README.md                 # Project documentation
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
