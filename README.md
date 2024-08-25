@@ -46,7 +46,7 @@ plaintext
 handwritten-digit-recognition/
 │
 ├── bestmodel.h5              # Trained model file
-├── app.py       # Main script to run the application
+├── recognize_digits.py       # Main script to run the application
 └── README.md                 # Project documentation
 
 ## Contributing
